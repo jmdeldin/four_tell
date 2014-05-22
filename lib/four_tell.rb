@@ -4,7 +4,7 @@ require 'four_tell/request'
 require 'json'
 
 class FourTell
-  VERSION = "0.0.1"
+  VERSION = "1.0.0"
 
   # @param [String] api_user
   # @param [String] api_password
